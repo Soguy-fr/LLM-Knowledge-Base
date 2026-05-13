@@ -1,69 +1,21 @@
 # Transformation vs Destruction d'Emploi
 
-## Vue d'ensemble
-L'IA générative ne détruit pas les emplois, mais **redistribue les tâches**. C'est une distinction critique manquée par le débat public.
+**L'IA ne détruit pas les emplois, elle redistribue les tâches.** La distinction entre emploi/compétence/tâche est fondamentale — le débat public confond ces trois niveaux. Pour la première fois depuis l'industrialisation, les tâches cognitives qualifiées sont directement exposées à l'automatisation, créant un déséquilibre entre déplacement (tâches perdues) et réintégration (tâches nouvelles créées).
 
-## Concepts fondamentaux
+## Idées clés
 
-### Trois niveaux distincts
-**Emploi** = Poste dans une org (contrat, salaire, fiche de poste)
-**Compétence** = Capacité cognitive/technique réutilisable
-**Tâche** = Action précise, automatisable ou non
+- **Trois niveaux distincts**: Emploi (poste org) ≠ Compétence (capacité réutilisable) ≠ Tâche (action précise automatisable)
+- **Rupture historique**: Tâches cognitives qualifiées exposées pour la première fois (exposition croît avec salaires hauts)
+- **Déplacement vs Réintégration**: Machine prend tâches (salaires ↓) mais crée nouvelles tâches (superviser, valider) — risque: vitesse déplacement > absorption marché
+- **Exemple traduction**: IA fait premiers jets, humans font vérification/contexte/qualité = redistribution de tâches
+- **Geographic inversion**: Expose davantage métropoles + travailleurs qualifiés (inverse du pattern historique)
 
-Le débat confond ces trois niveaux. La vraie transformation se joue **au niveau de la tâche**.
+## Questions ouvertes
+- Comment accélérer création de tâches de réintégration?
+- Quelles politiques d'accompagnement pour cette transition?
 
-## Rupture historique
-
-### Pattern historique (2 siècles)
-- Vapeur, électricité, robotique = tâches physiques répétitives
-- Épargné: travail cognitif non-routinier
-- Résultat: Emplois intermédiaires (cols bleus) disparaissent, extrêmes restent
-
-### IA générative = RUPTURE
-- **Première fois**: tâches cognitives qualifiées **directement exposées**
-- 80% de la population active US: >10% tâches affectées
-- Exposition **croît avec** niveau de salaire (inverse du pattern)
-- Métropoles > zones rurales (inversion géographique)
-
-## Déplacement vs Réintégration
-
-### Deux effets opposés (Acemoglu & Restrepo)
-1. **Déplacement**: Machine prend tâches → demande travail ↓ → salaires ↓
-2. **Réintégration**: Nouvelles tâches créées → demande ↑
-
-Historiquement: réintégration compense finalement. Mais...
-
-### Le risque actuel
-Déplacement se fait à **vitesse inabsorbable** par marchés du travail.
-Réintégration **reste à construire**.
-
-## Exemple: Traducteurs & IA
-
-```
-Déplacement:
-- Premiers jets en autre langue: IA seule
-- Réduction travail traducteur
-
-Réintégration (nouvelle valeur):
-- Vérifier contresens
-- Adaptation culturelle
-- Harmonisation terminologie
-- Contrôle qualité
-- Validation finale
-```
-
-## Implications
-- Pas de destruction nette → redistribution interne aux métiers
-- Mêmes titres (analyste financier, juriste) → contenu transformé
-- Nouvelles compétences requises (superviser IA > la produire)
-
-## Linked Sources
+## Sources
 - [[article-spring-ragain-2026|L'IA générative ne détruira pas votre emploi]]
 
-## References
-- Autor, Levy & Murnane (2003) — Task Skill Content
-- Acemoglu & Restrepo — Displacement vs Reintegration model
-- Eloundou et al. — 80% exposure analysis
-
 ---
-Tags: #transformation #emploi #competences #taches
+#transformation #emploi #competences #taches

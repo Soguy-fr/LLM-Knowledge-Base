@@ -1,66 +1,21 @@
 # Inégalités et Token Economy
 
-## The Token Revolution
+**Les tokens (unités IA) deviennent la nouvelle métrique de valeur productive et d'accès au pouvoir économique.** Sans accès tokens, les travailleurs sont déclassés. Cela crée un divde technologique menaçant une classe bipolaire: augmentés vs non-augmentés, avec classe moyenne réduite à néant.
 
-### Tokens = Nouvelle unité de puissance productive
-Comme kilowattheures lors généralisation électricité.
+## Idées clés
 
-**Exemples (Gemini/Google)**:
-- Date historique: 40 tokens
-- Portrait qualité: 3,000 tokens  
-- Vidéo 20s: 5,300 tokens
+- **Token = nouvelle unité de puissance**: Comme kilowattheures électricité, détermine productivité et salaire
+- **Salarié augmenté**: Humain + agents IA qu'il/elle pilote devient unité productive standard en Silicon Valley
+- **Sans tokens = déclassement**: Ceux sans accès IA restent stagnants, salaires pénalisés
+- **Hiring metric**: Nombre tokens accompagnant un poste devient critère recrutement majeur (ingénieur $500k/an devrait consommer ≥$250k tokens)
+- **Classe bipolaire risk**: Élite augmentée haute-valeur vs base non-augmentée services bas-gamme, classe moyenne inexistante
 
-### Silicon Valley: "Salarié augmenté"
-Concept émergent = Humain DUAL:
-- Partie biologique
-- Parties agents IA qu'il/elle pilote
+## Questions ouvertes
+- Quelles politiques d'accès démocratique aux tokens?
+- Comment éviter création classe technologique bipolaire?
 
-**Sans tokens = déclassement**
-
-## Token Economy at Work
-
-### Métrique d'allocation
-Jensen Huang (Nvidia): Ingénieur payé $500k/an devrait consommer ≥$250k tokens/an
-- Moins = problématique
-- Beaucoup moins ($5k) = "crise"
-
-### New hiring criteria
-"Combien de tokens accompagnent ce poste?"
-- Détermine productivité
-- Détermine salaire/valeur
-
-## Le Divide Technologique
-
-### Avec tokens
-- Productivité multipliée
-- Salaires confortables
-- Silicon Valley logic: adoptez l'IA rapidement
-
-### Sans tokens  
-- Stagnation productivité
-- Salaires stagnent
-- Risque déclassement professionnel
-
-## Scénario pessimiste: Classe bipolaire
-
-Via Neal Stephenson (*Age de diamant*, 1995 - nowish relevant):
-- **Élite**: Full IA augmented, haute valeur
-- **Base**: Non-augmentées, services bas-gamme
-- **Classe moyenne**: Réduite à portion congrue ou inexistante
-
-## Questions existentielles
-
-"Beaucoup de gens touchent salaires confortables juste pour rédiger emails et présentations PowerPoint. Méritent-ils vraiment ce salaire, ou c'est programme emploi déguisé?
-L'IA va répondre..." — Neal Stephenson
-
-## Implications socio-économiques
-- Inégalités se creusent **par accès IA**
-- Pas par salaires directs, mais par **productivité augmentée**
-- Urgence: Politique d'accès démocratique
-- Formation: Comment accéder/utiliser tokens
-
-## Linked Sources
+## Sources
 - [[article-leparmentier-2026|Aux Etats-Unis, l'émergence d'un nouveau salarié dopé à l'IA]]
 
 ---
-Tags: #inegalites #tokens #productivite #division-numerique
+#inegalites #tokens #productivite #division-numerique

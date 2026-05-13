@@ -1,57 +1,21 @@
 # Métacompétences et Formation
 
-## Core Concept
-L'IA générative **inversion les priorités de formation**.
-Valeur humaine passe par: **Superviser IA > Utiliser IA**
+**La vraie compétence demandée n'est pas d'utiliser l'IA, mais de superviser et critiquer ses outputs.** Cela inverse les priorités de formation: formations généralistes (sciences humaines, jugement critique) retrouvent valeur économique, tandis que formations techniques courtes deviennent insuffisantes.
 
-## Shift fondamental
+## Idées clés
 
-### Ancien paradigme
-- Former au tool: prompts, interfaces, maîtrise technique
-- Court terme: utile
-- **Insufficient**: Si demande réelle = superviser/critiquer l'IA
+- **Shift de priorité**: Superviser IA > maîtriser l'outil (prompts, interfaces)
+- **Métacompétences requises**: Culture générale, capacité argumentative, connaissance biais cognitifs — exactement ce que humanités cultivent
+- **Paradoxe**: À mesure IA automatise tâches cognitives routinières, elle valorise ce que formations généralistes offrent depuis longtemps
+- **Formations insuffisantes**: Courtes formations techniques ne développent pas jugement critique, contexte, responsabilité éthique
+- **Inversion historique**: Débats employabilité avaient déconsidéré humanités au profit technique immédiat
 
-### Nouveau paradigme
-- Superviser output IA requiert: culture générale + jugement critique
-- Détecter erreur de fond
-- Évaluer cohérence raisonnement
-- Identifier biais cognitifs
-- **= Métacompétences**
+## Questions ouvertes
+- Comment intégrer métacompétences dans curricula existants?
+- Quel rôle pour l'apprentissage tout au long de la vie?
 
-## Métacompétences (définition sciences éducation)
-- Apprendre à apprendre
-- Exercer jugement critique
-- Mobiliser savoirs en situations inédites
-- **Ce que formations généralistes cultivent depuis longtemps**
-
-## Paradoxe historique
-
-Machine automatise:
-- Rédaction
-- Analyse documentaire
-- Synthèse
-
-→ Valeur marginale humaine = **Juger si ce texte dit vrai**
-
-### Réhabilitation des Humanités
-Non par nostalgie, mais **par logique économique pure**:
-- Si machine fait texte + analyse
-- Humain = validateur + critiqueur
-- = Sciences humaines retrouvent pertinence
-
-## Problème éducatif actuel
-- Débats employabilité ont **déconsidéré** formations généralistes
-- Poussé vers compétences techniques "mesurables"
-- **À l'inverse exact** de ce qui sera demandé
-
-## Implications pour formation
-- Universités généralistes > bootcamps tech
-- Critique > exécution
-- Culture générale = asset compétitif
-- Formations courtes/techniques = insufficient
-
-## Linked Sources
+## Sources
 - [[article-spring-ragain-2026|L'IA générative ne détruira pas votre emploi]]
 
 ---
-Tags: #education #metacompetences #formation #ai-supervision
+#education #metacompetences #formation #ai-supervision
