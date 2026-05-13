@@ -15,7 +15,7 @@
 - Quelles politiques d'accompagnement pour cette transition?
 
 ## Sources
-- [[article-spring-ragain-2026|L'IA générative ne détruira pas votre emploi]]
+- [[../articles/article-spring-ragain-2026|L'IA générative ne détruira pas votre emploi]]
 
 ---
 #transformation #emploi #competences #taches

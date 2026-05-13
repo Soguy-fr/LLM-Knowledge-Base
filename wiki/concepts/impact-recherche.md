@@ -15,7 +15,7 @@
 - Comment gérer transition vers nouveau paradigme?
 
 ## Sources
-- [[article-glavas-2026|L'intelligence artificielle va-t-elle mettre fin à la recherche en sciences sociales ?]]
+- [[../articles/article-glavas-2026|L'intelligence artificielle va-t-elle mettre fin à la recherche en sciences sociales ?]]
 
 ---
 #recherche #integrité #transparence #ai-evaluation

@@ -15,7 +15,7 @@
 - Comment éviter création classe technologique bipolaire?
 
 ## Sources
-- [[article-leparmentier-2026|Aux Etats-Unis, l'émergence d'un nouveau salarié dopé à l'IA]]
+- [[../articles/article-leparmentier-2026|Aux Etats-Unis, l'émergence d'un nouveau salarié dopé à l'IA]]
 
 ---
 #inegalites #tokens #productivite #division-numerique

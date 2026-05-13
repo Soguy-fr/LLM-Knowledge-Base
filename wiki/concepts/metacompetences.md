@@ -15,7 +15,7 @@
 - Quel rôle pour l'apprentissage tout au long de la vie?
 
 ## Sources
-- [[article-spring-ragain-2026|L'IA générative ne détruira pas votre emploi]]
+- [[../articles/article-spring-ragain-2026|L'IA générative ne détruira pas votre emploi]]
 
 ---
 #education #metacompetences #formation #ai-supervision
