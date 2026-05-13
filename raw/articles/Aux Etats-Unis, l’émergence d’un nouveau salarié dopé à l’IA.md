@@ -1,0 +1,51 @@
+---
+title: "Aux Etats-Unis, l’émergence d’un nouveau salarié dopé à l’IA"
+source: "https://www.lemonde.fr/economie/article/2026/04/14/aux-etats-unis-l-emergence-d-un-nouveau-salarie-dope-a-l-ia_6679869_3234.html"
+author:
+  - "[[Arnaud Leparmentier (San Francisco]]"
+  - "[[correspondant)]]"
+published:
+created: 2026-05-13
+description: "Mesurer la performance en tokens, sorte de « jetons d’IA », plutôt qu’en heures travaillées : dans la Silicon Valley, l’intelligence artificielle redéfinit les critères de valeur des employés. Avec, en creux, la menace d’un déclassement pour ceux qui restent à l’écart."
+tags:
+  - "clippings"
+---
+![Francis deSouza et Sharon Goldman lors de la table ronde « Comment Google accélère l’adoption de l’IA en entreprise grâce à la confiance » à la conférence HumanX, à San Francisco 2026, le 7 avril 2026.](https://img.lemde.fr/2026/04/13/0/0/5000/3333/2301/0/75/0/4218955_upload-1-scqhwyyo2y4p-063-2270288195.jpg)
+
+Francis deSouza et Sharon Goldman lors de la table ronde « Comment Google accélère l’adoption de l’IA en entreprise grâce à la confiance » à la conférence HumanX, à San Francisco 2026, le 7 avril 2026.
+
+Les soirées de San Francisco ne sont plus ce qu’elles étaient, déplore Nikunj Kothari, associé dans l’entreprise de capital-risque FPV Ventures, dans un post publié en février sur les réseaux sociaux: *« Un ami a quitté une soirée à 21 h 30, un samedi. Pas fatigué. Pas malade. Il voulait retrouver ses agents* \[d’intelligence artificielle, ces robots qui font tourner des modèles personnalisés\]*. Plus personne ne s’en étonne*, écrit l’investisseur. *Désormais, toutes les soirées sont sobres. Les jeunes ne boivent pas, car ils doivent se remettre au travail juste après. Ce n’est pas l’influence de Bryan Johnson* \[un entrepreneur antialcool qui ambitionne de vivre éternellement\] *qui les guide – bien que cela joue sans doute un rôle. L’ivresse qu’ils recherchent aujourd’hui se mesure en “tokens” par jour. »*
+
+Les tokens (« jetons »), ce sont ces unités, ces particules d’intelligence artificielle, générés à l’aide d’électricité et de serveurs géants. Ils sont la nouvelle mesure de la puissance, comme jadis les kilowattheures au moment de la généralisation de l’électricité. Sur Gemini, l’assistant IA de Google, pour obtenir la date de naissance de George Washington, 40 tokens sont nécessaires tandis qu’il en faut 3 000 pour avoir un portrait de qualité et 5 300 pour une vidéo de vingt secondes.
+
+Utilisés au travail, ces « tokens » démultiplient le cerveau du col blanc comme lorsque le tracteur décupla la force de travail de l’agriculteur. Dans une bascule ahurissante, la Silicon Valley invente le « salarié augmenté ». Ceux-ci sont désormais considérés comme doublés: leur part humaine et les agents d’IA qu’ils font tourner. Sans « token », sans outil pour se servir de l’IA, le salarié est déclassé, et les intéressés en sont conscients. Mi-mars, lors de la conférence Nvidia de San Jose, au sud de San Francisco, [Jensen Huang, le patron fondateur de Nvidia et inventeur des puces qui font tourner l’IA](https://www.lemonde.fr/economie/article/2026/03/29/jensen-huang-patron-de-nvidia-l-anti-doomer-et-nouveau-parrain-de-la-silicon-valley_6675237_3234.html), expliquait qu’un nombre croissant d’entreprises prévoit d’attribuer à chaque emploi une quantité de requêtes informatiques*.*
+
+*« C’est désormais l’un des outils de recrutement dans la Silicon Valley: “Combien de tokens accompagnent mon poste?” Car tout ingénieur ayant accès à des tokens sera plus productif »*, a expliqué M. Huang. L’inverse est aussi vrai: gare à ceux qui n’embrassent pas l’IA*. « Si vous rémunérez un ingénieur logiciel ou un chercheur en IA 500 000 dollars par an* \[425 000 euros\]*, s’il ne consomme pas pour au moins 250 000 dollars de tokens, je serai profondément inquiet. S’il prétend n’en avoir utilisé que pour 5 000 dollars, je vais piquer une crise »*, a mis en garde M. Huang devant plus de 10 000 spécialistes de la tech venus l’écouter.
+
+## Les agents IA de la CIA
+
+Toute l’activité humaine semble concernée, y compris les agents de la CIA qui vont être « augmentés » eux aussi. Jeudi 9 avril, à Washington, son vice-directeur, Michael Ellis, a expliqué qu’ *« au cours des deux prochaines années »*,l’agence allait créer des *« collaborateurs IA intégrés à toutes les plateformes d’analyse de l’agence – une sorte de version classifiée de l’IA générative qui aidera nos analystes dans leurs tâches élémentaires ». « Elle ne pensera pas à la place de nos analystes, mais elle aidera à rédiger les jugements-clés, à en assurer la clarté et à comparer les propositions aux normes du métier. »*
+
+Sur le terrain, les entreprises l’appliquent à tout leur processus de création. Au forum HumanX, qui rassemblait toute la tech à San Francisco la semaine du 6 avril, Seth Cohen, chef technologie chez le géant des produits d’hygiène et d’entretien Procter & Gamble, a expliqué comment l’IA était devenue partie intégrante de son entreprise. Elle a permis de lancer un produit de protection des cheveux contre le soleil cinq fois plus rapidement que d’habitude, de créer des molécules pour une lessive en poudre en six mois au lieu de six à huit ans ou encore de faire tourner une usine Gillette sans personnel de nuit, et Seth Cohen a constaté que les salariés pratiquant l’IA étaient bien plus productifs.
+
+Que l’on soit chef de produit marketing, chercheur, ouvrier, l’avenir chez Procter & Gamble passe par l’intelligence artificielle. Pour M. Cohen, *« les entreprises qui l’emporteront ne seront pas celles qui se demanderont ce que l’IA est capable de faire »*, mais celles qui *« exploiteront la puissance de l’IA »* pour stimuler leur croissance.
+
+Lire aussi |
+
+A court terme, la question est de savoir si les jobs qualifiés vont disparaître. Au forum HumanX, tous les intervenants s’étaient donné le mot pour réfuter les perspectives de job apocalypse. La crainte pourtant se reflète dans l’interminable descente aux enfers à Wall Street des firmes de logiciels concurrencées par l’IA, à commencer par Microsoft, dont l’action a chuté d’un tiers depuis janvier, et qui a été accentuée par les [licenciements massifs chez Block, la firme de Jack Dorsey, le fondateur de Twitter](https://www.lemonde.fr/economie/article/2026/02/27/block-licencie-40-de-ses-effectifs-apres-le-deploiement-en-interne-de-l-intelligence-artificielle_6668444_3234.html).
+
+Mais à HumanX, Andrew Ng, PDG de DeepLearning.AI, estimait que les récentes vagues de licenciements annoncées faisaient *« l’objet d’un “AI bashing” »* : *« Elles sont en réalité la conséquence d’embauches excessives réalisées durant la pandémie, et n’ont que peu de rapport avec l’IA. »* Tout en soulignant qu’il faudra encore des ingénieurs informatiques à l’avenir: *« Tout le monde devrait apprendre à coder. Je sais que de nombreux dirigeants d’entreprise ont déconseillé d’apprendre à coder, au motif que l’IA finirait par automatiser cette tâche. Avec le recul, nous considérerons ce conseil comme l’un des pires jamais donnés en matière de carrière. »*
+
+## Implantée dans le cerveau
+
+Certes, mais qui pourra mieux piloter l’IA… que l’IA? C’est un peu ce qu’a laissé entendre Francis deSouza, patron de la sécurité de Google Cloud, lors de la conférence HumanX, qui a insisté sur les risques de cyberattaques, orchestrées désormais en une poignée de secondes, surtout depuis que la firme d’IA Anthropic a révélé un modèle qui pourrait se transformer en arme redoutable pour les hackeurs: *« Il est impossible de contrer une attaque pilotée par une IA avec une défense menée par l’humain. Il faut une IA pour combattre une IA. »*
+
+Et, surtout, la question des personnes moins qualifiées reste ouverte. La vision irénique d’HumanX a été tempérée non pas par les entrepreneurs, mais par l’auteur de science-fiction Neal Stephenson dont le roman *L’Age de diamant*, qui décrivait dès 1995 un monde fait d’IA et de nanotechnologies, semble soudain bien réel. Il fait retourner l’humanité dans l’Angleterre du XIX <sup>e</sup> siècle, *« au sein d’une société néovictorienne »*, caractérisée par *« l’immense fossé qui sépare, en termes de statut social et de revenus, l’élite de la base »* et une *« classe moyenne réduite à la portion congrue, soit totalement inexistante »*, a expliqué M. Stephenson.
+
+On y est, selon lui. Très sérieusement, il pose les termes du débat: *« Beaucoup de gens touchent des salaires plutôt confortables simplement pour rédiger des e-mails et créer des présentations PowerPoint. Ces personnes méritent-elles réellement leur salaire, ou ne s’agit-il que d’un programme d’emploi déguisé pour diplômés de l’université? Nous sommes sur le point d’en avoir le cœur net »* avec l’IA.
+
+Certes, l’immense majorité des entrepreneurs de HumanX préfère garder l’esprit des pionniers américains, toujours à la conquête de la frontière ultime. Ainsi, [l’ingénieur futurologue Ray Kurzweil](https://www.lemonde.fr/festival/article/2015/09/23/ray-kurzweil-le-salarie-de-google-qui-veut-terrasser-la-mort_4767845_4415198.html) prophétisait lors de ce rendez-vous qu’à terme cerveau et IA ne feraient plus qu’un. Fort de sa prédiction faite en 1999 de l’émergence de la superintelligence d’ici à 2029, le vétéran de Silicon Valley âgé de 78 ans a annoncé le plus sérieusement du monde que l’IA serait à partir du milieu des années 2030 implantée dans le cerveau, *« sans intervention chirurgicale »*.
+
+Lire aussi |
+
+*« Lorsqu’une idée vous viendra à l’esprit, vous ne pourrez plus déterminer si elle provient de l’IA ou de votre cerveau biologique. Les deux seront indissociables »*, a affirmé Ray Kurzweil. Mais, parfois, un événement ramène sur terre les visionnaires, tel ce cocktail Molotov lancé vendredi 10 avril contre la maison de Sam Altman, fondateur d’OpenAI, à San Francisco. *« Tout ne se passera pas sans heurt. La peur et l’anxiété suscitées par l’IA sont justifiées; nous sommes en train d’assister à la plus profonde transformation de la société depuis longtemps – et peut-être même de toute son histoire »*, a concédé Sam Altman, sur son blog. Le créateur de ChatGPT a également appelé à *« l’adoption de nouvelles politiques visant à nous aider à traverser une transition économique difficile »*.

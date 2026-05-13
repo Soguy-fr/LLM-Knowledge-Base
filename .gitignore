@@ -1,0 +1,10 @@
+.obsidian/workspace.json
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/core-plugins-migration.json
+.obsidian/plugins/
+.DS_Store
+*.swp
+*.swo
+~*
+Thumbs.db
