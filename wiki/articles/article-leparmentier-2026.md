@@ -1,9 +1,9 @@
-# Aux Etats-Unis, l'émergence d'un nouveau salarié dopé à l'IA
+﻿# Aux Etats-Unis, l'émergence d'un nouveau salarié dopé à l'IA
 
 **Auteur**: Arnaud Leparmentier (correspondant San Francisco)  
 **Source**: [Le Monde](https://www.lemonde.fr/economie/article/2026/04/14/aux-etats-unis-l-emergence-d-un-nouveau-salarie-dope-a-l-ia_6679869_3234.html)  
 **Date**: 2026-04-14  
-**Brute**: [[../../raw/articles/Aux Etats-Unis, l'émergence d'un nouveau salarié dopé à l'IA.md]]
+**Brute**: [[../../raw/Aux Etats-Unis, l'émergence d'un nouveau salarié dopé à l'IA.md]]
 
 ## Résumé
 Reportage Silicon Valley: tokens (unités IA) deviennent métrique valeur productive. Concept "salarié augmenté" (humain + agents IA) émerge comme standard. Sans tokens = déclassement. Risque: création classe bipolaire (augmentés hauts-salaires vs non-augmentés services bas-gamme), classe moyenne inexistante.
@@ -20,3 +20,4 @@ Reportage Silicon Valley: tokens (unités IA) deviennent métrique valeur produc
 
 ---
 #article #emploi #inegalites #silicon-valley
+

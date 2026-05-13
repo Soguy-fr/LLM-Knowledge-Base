@@ -1,9 +1,9 @@
-# L'intelligence artificielle va-t-elle mettre fin à la recherche en sciences sociales ?
+﻿# L'intelligence artificielle va-t-elle mettre fin à la recherche en sciences sociales ?
 
 **Auteur**: Dejan Glavas  
 **Source**: [The Conversation](https://theconversation.com/lintelligence-artificielle-va-t-elle-mettre-fin-a-la-recherche-en-sciences-sociales-281380)  
 **Date**: 2026-05-04  
-**Brute**: [[../../raw/articles/L'intelligence artificielle va-t-elle mettre fin à la recherche en sciences sociales.md]]
+**Brute**: [[../../raw/L'intelligence artificielle va-t-elle mettre fin à la recherche en sciences sociales.md]]
 
 ## Résumé
 Crise d'intégrité scientifique: IA utilisée secrètement sans transparence. Problèmes: hallucinations, opacité algorithmes, responsabilité floutée. Solution: transparence absolue, frontière inviolable (chercheur valide), pluralisme. Métaphore Achebe (*Things Fall Apart*): société confrontée transformation profonde.
@@ -20,3 +20,4 @@ Crise d'intégrité scientifique: IA utilisée secrètement sans transparence. P
 
 ---
 #article #recherche #integrité #transparence
+

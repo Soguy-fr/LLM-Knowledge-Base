@@ -1,9 +1,9 @@
-# L'IA générative ne détruira pas votre emploi mais elle va changer profondément votre métier
+﻿# L'IA générative ne détruira pas votre emploi mais elle va changer profondément votre métier
 
 **Auteur**: Hugo Spring-Ragain  
 **Source**: [The Conversation](https://theconversation.com/lia-generative-ne-detruira-pas-votre-emploi-mais-elle-va-changer-profondement-votre-metier-279911)  
 **Date**: 2026-04-20  
-**Brute**: [[../../raw/articles/L'IA générative ne détruira  pas votre emploi mais elle va changer profondément votre métier.md]]
+**Brute**: [[../../raw/L'IA générative ne détruira  pas votre emploi mais elle va changer profondément votre métier.md]]
 
 ## Résumé
 Distingue trois niveaux confondus dans le débat: emploi, compétence, tâche. L'IA redistribue les tâches au sein des métiers, pas détruit les emplois. Pour la première fois, tâches cognitives qualifiées sont exposées (inverse du pattern 2 siècles). Formation doit prioritariser superviser l'IA plutôt que l'utiliser.
@@ -19,3 +19,4 @@ Distingue trois niveaux confondus dans le débat: emploi, compétence, tâche. L
 
 ---
 #article #formation #emploi
+
