@@ -59,6 +59,8 @@ L'IA va répondre..." — Neal Stephenson
 - Urgence: Politique d'accès démocratique
 - Formation: Comment accéder/utiliser tokens
 
+## Linked Sources
+- [[article-leparmentier-2026|Aux Etats-Unis, l'émergence d'un nouveau salarié dopé à l'IA]]
+
 ---
 Tags: #inegalites #tokens #productivite #division-numerique
-Sources: Leparmentier (2026) - Le Monde

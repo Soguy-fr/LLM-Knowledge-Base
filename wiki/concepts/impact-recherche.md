@@ -71,6 +71,8 @@ Nouvelle science:
 - Utilise IA sans s'y soumettre
 - **Reste aventure humaine**
 
+## Linked Sources
+- [[article-glavas-2026|L'intelligence artificielle va-t-elle mettre fin à la recherche en sciences sociales ?]]
+
 ---
 Tags: #recherche #integrité #transparence #IA-evaluation
-Sources: Glavas, D. (2026) - L'IA mettra-t-elle fin à recherche? The Conversation

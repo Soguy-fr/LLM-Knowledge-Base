@@ -25,10 +25,10 @@ Knowledge base sur l'impact de l'IA générative sur le travail, les compétence
 - Urgence: transparence et responsabilité
 - Culture du secret chez chercheurs
 
-## Articles Source
-- [[raw-articles-1|L'IA générative ne détruira pas votre emploi]]
-- [[raw-articles-2|Aux Etats-Unis, l'émergence d'un nouveau salarié dopé à l'IA]]
-- [[raw-articles-3|L'IA va-t-elle mettre fin à la recherche en sciences sociales]]
+## Source Articles (avec summaries)
+- [[article-spring-ragain-2026|L'IA générative ne détruira pas votre emploi]]
+- [[article-leparmentier-2026|Aux Etats-Unis, l'émergence d'un nouveau salarié dopé à l'IA]]
+- [[article-glavas-2026|L'IA va-t-elle mettre fin à la recherche en sciences sociales ?]]
 
 ## Dernière compilation
 13 mai 2026 - Compilation initiale des 3 articles

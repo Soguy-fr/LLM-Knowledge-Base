@@ -50,6 +50,8 @@ Non par nostalgie, mais **par logique économique pure**:
 - Culture générale = asset compétitif
 - Formations courtes/techniques = insufficient
 
+## Linked Sources
+- [[article-spring-ragain-2026|L'IA générative ne détruira pas votre emploi]]
+
 ---
 Tags: #education #metacompetences #formation #ai-supervision
-Sources: Spring-Ragain (2026)

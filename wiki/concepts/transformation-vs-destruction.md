@@ -57,9 +57,13 @@ Réintégration (nouvelle valeur):
 - Mêmes titres (analyste financier, juriste) → contenu transformé
 - Nouvelles compétences requises (superviser IA > la produire)
 
-## Sources
-- Spring-Ragain, H. (2026). L'IA générative ne détruira pas votre emploi - The Conversation
-- References: Autor, Levy & Murnane (2003); Acemoglu & Restrepo; Eloundou et al.
+## Linked Sources
+- [[article-spring-ragain-2026|L'IA générative ne détruira pas votre emploi]]
+
+## References
+- Autor, Levy & Murnane (2003) — Task Skill Content
+- Acemoglu & Restrepo — Displacement vs Reintegration model
+- Eloundou et al. — 80% exposure analysis
 
 ---
 Tags: #transformation #emploi #competences #taches
