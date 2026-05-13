@@ -1,4 +1,4 @@
-﻿# COMPILATION SPEC — KB Shauri IA & Transformation du Travail
+# COMPILATION SPEC — KB Shauri IA & Transformation du Travail
 
 ## Vue d'ensemble
 Ce document définit **comment compiler la wiki**. À chaque mise à jour, le compilateur (Claude Code) doit suivre **exactement ces règles**. C'est le contrat entre toi et l'IA.

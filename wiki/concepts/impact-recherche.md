@@ -14,8 +14,12 @@
 - Comment implémenter transparence sans surcharge administrative?
 - Comment gérer transition vers nouveau paradigme?
 
+## Concepts liés
+- Lien horizontal: [[ia-non-neutralite|IA et Non-neutralité Technique]]
+
 ## Sources
 - [[../articles/article-glavas-2026|L'intelligence artificielle va-t-elle mettre fin à la recherche en sciences sociales ?]]
+- [[../articles/article-mouvements-2026|Ce que l'IA fait à la sociologie]]
 
 ---
 #recherche #integrité #transparence #ai-evaluation

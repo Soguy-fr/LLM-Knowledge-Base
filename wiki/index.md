@@ -25,13 +25,19 @@ Knowledge base sur l'impact de l'IA générative sur le travail, les compétence
 - Urgence: transparence et responsabilité
 - Culture du secret chez chercheurs
 
+### 5. [[ia-non-neutralite|IA et Non-neutralité Technique]]
+- IA ≠ outil neutre: système technique porteur d'hétéronomie
+- Empirisme abstrait: données "qui parlent seules" (C.W. Mills)
+- Service de la performance académique, pas émancipation
+
 ## Articles Compilés
-- [[articles/article-spring-ragain-2026|L'IA générative ne détruira pas votre emploi]]
-- [[articles/article-leparmentier-2026|Aux Etats-Unis, l'émergence d'un nouveau salarié dopé à l'IA]]
-- [[articles/article-glavas-2026|L'IA va-t-elle mettre fin à la recherche en sciences sociales ?]]
+- [[articles/article-spring-ragain-2026|L'IA générative ne détruira pas votre emploi]] (Spring-Ragain, 2026-04-20)
+- [[articles/article-leparmentier-2026|Aux Etats-Unis, l'émergence d'un nouveau salarié dopé à l'IA]] (Leparmentier, 2026-04-14)
+- [[articles/article-glavas-2026|L'IA va-t-elle mettre fin à la recherche en sciences sociales ?]] (Glavas, 2026-05-04)
+- [[articles/article-mouvements-2026|Ce que l'IA fait à la sociologie]] (Mouvements.info, 2026-02)
 
 ## Dernière compilation
-13 mai 2026 - Compilation initiale des 3 articles
+13 mai 2026 (v1.1) — 5 concepts, 4 articles
 
 ---
 Status: Work in progress
